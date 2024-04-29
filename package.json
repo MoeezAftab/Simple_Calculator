@@ -1,0 +1,22 @@
+{
+  "name": "moeez1002_simple-calculator",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "moeez",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "inquirer": "^9.2.19",
+    "publish": "^0.6.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
